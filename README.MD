@@ -14,7 +14,7 @@ Before running the project, ensure that you have the following installed:
 1. Clone the repository:
 
    ```jbash
-   git clone https://github.com/codewithkim1/
+   git clone git@github.com:codewithkim1/Login-with-Google-using-React-and-Firebase.git
    ```
    
   
